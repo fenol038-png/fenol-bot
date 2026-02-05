@@ -1,4 +1,3 @@
-8052557793:AAGuVbAjR-d3QpMONU7c1YVbAqBvZ4VIiFo
 import asyncio
 import os
 import random
